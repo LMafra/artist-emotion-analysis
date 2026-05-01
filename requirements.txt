@@ -1,0 +1,22 @@
+# Data collection
+spotipy>=2.26.0
+lyricsgenius>=3.0.1
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Sentiment analysis
+transformers>=4.35.0
+torch>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# NLP (optional, for additional preprocessing)
+nltk>=3.8.0
