@@ -1,1 +1,1 @@
-# Kanye-West-Sentiment-Analysis
+# Artist-Sentiment-Analysis
